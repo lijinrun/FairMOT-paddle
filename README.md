@@ -1,2 +1,2 @@
-# softwarecup2020
-基于深度学习的企业实体识别
+# FairMOT-paddle
+使用paddle实现FairMOT
